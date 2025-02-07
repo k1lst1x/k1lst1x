@@ -1,4 +1,35 @@
 ## Hi there 👋
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=k1lst1x&show_icons=true"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1lst1x&layout=compact"/>
+#### 🌟 What I'm Up To:
+🚀 **Building & Optimizing:** Web apps, APIs, and backend systems.  
+🎓 **Exploring:** Angular, Django, and Node.js to stay ahead.  
+🤝 **Open for Collaboration:** Love contributing to open-source projects and impactful innovations.  
+🔍 **Interested in Web 3.0:** Looking for mentors and teammates to dive deeper into blockchain & decentralized applications.  
+
+#### 💼 Past Projects:
+- 🌐 **Developed Websites:**  
+  - [Energo University](https://energo.university)  
+  - [AUES University](https://aues.edu.kz)  
+
+#### 📬 Let's Connect!
+- 📧 Email: d.dzhubaliev@aues.kz  
+- 💬 Telegram:  
+  <a href="https://t.me/inflorescenc" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>  
+
+#### 🎯 Competitive Programming:
+- 🏆 Codeforces: [k1lst1x](https://codeforces.com/profile/k1lst1x)
+
+
+#### 📊 GitHub Stats
+<img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=k1lst1x&show_icons=true&theme=dark"/>
+<img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1lst1x&layout=compact&theme=dark"/>
+
+#### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=k1lst1x&theme=darkhub&no-bg=true&no-frame=true" />
+
+#### 🔧 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,postgres,git,linux,nginx,sqlite,github" />
+</p>
