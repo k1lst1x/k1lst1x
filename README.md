@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-#### 🌟 What I'm Up To:
-🚀 **Building & Optimizing:** Web apps, APIs, and backend systems.  
-🎓 **Exploring:** Angular, Django, and Node.js to stay ahead.  
-🤝 **Open for Collaboration:** Love contributing to open-source projects and impactful innovations.  
-🔍 **Interested in Web 3.0:** Looking for mentors and teammates to dive deeper into blockchain & decentralized applications.  
-
 #### 💼 Past Projects:
 - 🌐 **Developed Websites:**  
   - [Energo University](https://energo.university)  
