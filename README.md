@@ -6,7 +6,10 @@
   - [AUES University](https://aues.edu.kz)  
 
 #### 📬 Let's Connect!
-- 📧 Email: d.dzhubaliev@aues.kz  
+- 📧 Email:
+  <a href="mailto:d.dzhubaliev@aues.kz" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 - 💬 Telegram:  
   <a href="https://t.me/inflorescenc" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
