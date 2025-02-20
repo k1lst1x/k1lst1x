@@ -25,5 +25,5 @@
 
 #### 🔧 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,postgres,git,linux,nginx,sqlite,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,postgres,git,linux,nginx,sqlite,flask,github" />
 </p>
